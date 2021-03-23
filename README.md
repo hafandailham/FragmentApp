@@ -12,12 +12,12 @@ ViewModel adalah kelas yang bertanggung jawab untuk mempersiapkan dan mengelola 
 ![WhatsApp Image 2021-03-23 at 19 35 09 (2)](https://user-images.githubusercontent.com/63888291/112149906-0ff5d080-8c12-11eb-8ee0-f23d110872cb.jpeg)
 ![WhatsApp Image 2021-03-23 at 19 35 09 (1)](https://user-images.githubusercontent.com/63888291/112149917-13895780-8c12-11eb-8a9b-b9fa3bc8139b.jpeg)
 
-#Layout awal ketika data belom di input kan
+# Layout awal ketika data belom di input kan
 
 ![WhatsApp Image 2021-03-23 at 19 35 09](https://user-images.githubusercontent.com/63888291/112149955-200db000-8c12-11eb-9e69-b99e178943db.jpeg)
 ![WhatsApp Image 2021-03-23 at 19 35 08 (2)](https://user-images.githubusercontent.com/63888291/112149979-29971800-8c12-11eb-8a9b-e1e96ef90b93.jpeg)
 
-#Layout ketika data dimasukkan dan hasil dari pengisian data
+# Layout ketika data dimasukkan dan hasil dari pengisian data
 
 ![WhatsApp Image 2021-03-23 at 19 35 08 (1)](https://user-images.githubusercontent.com/63888291/112149988-2d2a9f00-8c12-11eb-849c-5981c22b41ce.jpeg)
 ![WhatsApp Image 2021-03-23 at 19 35 08](https://user-images.githubusercontent.com/63888291/112150008-3287e980-8c12-11eb-8d43-4c2a0dce7b95.jpeg)
