@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Android</string>
+    <string name="slide_1_desc">Salah satu Pemrograman dengan menggunakan java / kotlin yang bertujuan untuk membuat sebuah aplikasi pada Sistm Operasi Android</string>
+
+    <string name="slide_2_title">Fragment</string>
+    <string name="slide_2_desc">bagian yang dapat digunakan kembali dari antarmuka pengguna android activity yang digunakan untuk membuat UI yang dinamis dan fleksibel.</string>
+
+    <string name="slide_3_title">Intro Slider</string>
+    <string name="slide_3_desc">Tampilan awal yang akan muncul ketika aplikasi dibuka yang berupa slide yang menarik untuk mengenalkan aplikasi pertama kali.</string>
+
+    <string name="slide_4_title">Java</string>
+    <string name="slide_4_desc">Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
